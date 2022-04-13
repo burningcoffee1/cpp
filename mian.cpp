@@ -5,9 +5,10 @@ int main()
 {
     int i = 0;
     int b = 3;
-    cout << "Hello, shengjm111!" << endl;
+    int c = 3;
+
+    cout << "Hello, shengjm!" << endl;
     
-    cout << "Hello, shengjm111!" << endl;
     getchar();
     return 0;
 }
